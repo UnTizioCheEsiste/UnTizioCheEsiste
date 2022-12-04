@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UnTizioCheEsiste
-- 👀 I’m interested in C#, JavaScript, React and vue
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in C#, JavaScript and React
+- 🌱 I’m currently learning PHP and Laravel
 - 📫 How to reach me: @UnTizioCheEsiste
 
 
