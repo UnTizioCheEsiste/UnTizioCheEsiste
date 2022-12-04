@@ -1,3 +1,4 @@
+### 💻 About Me :
 - 👋 Hi, I’m @UnTizioCheEsiste
 - 👀 I’m interested in C#, JavaScript and React
 - 🌱 I’m currently learning PHP and Laravel
